@@ -1,9 +1,9 @@
 {
   "CC": {
     "A1": {
-      "L": "https://www.baidu.com/",
-      "isT": true,
-      "isJ": true
+      "L": "",
+      "isT": false,
+      "isJ": false
     },
     "B2": {
       "L": "",
