@@ -27,8 +27,8 @@
     },
     "F6": {
       "L": "",
-      "isT": true,
-      "isJ": true
+      "isT": false,
+      "isJ": false
     },
     "G7": {
       "L": "",
